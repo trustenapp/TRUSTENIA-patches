@@ -1,15 +1,35 @@
 # TRUSTENIA Δ Patches
 
-Custom Android patches for YouTube and YouTube Music, featuring the **Universal SABR Readahead Buffer Fix**, custom Glass UI & theme adjustments, and custom branding.
+**Kostenlose Open-Source-Patches für YouTube & YouTube Music (inkl. Universal SABR Buffer Fix, Glass UI & Custom Branding).**  
+*Free & Open-Source Android patches for YouTube & YouTube Music (featuring Universal SABR Buffer Fix, Glass UI & Custom Branding).*
 
-## Key Modifications
-- **Universal SABR Readahead Buffer Fix (`SabrReadaheadLimit.java`):** Increases readahead buffer limits (`MAX_BUFFERED_BYTES`, `MIN_READAHEAD_MS`, `FORMAT_EXPIRATION_MS`) to prevent stream buffering and playback stalls.
-- **Custom Glass UI & Theme Enhancements:** Refined navigation bar, backdrop blur, and theme color overlays.
-- **Custom Branding:** Includes custom adaptive icons for TRUSTENIA Δ Tube and TRUSTENIA Δ Music.
+---
 
-## License & Attribution
-This project is a derivative work licensed under the **GNU General Public License v3.0 (GPL-3.0)**, based on the open-source patch framework (see `LICENSE` and `NOTICE` for full attribution and terms).
+## 🇩🇪 Schnellstart-Anleitung (Deutsch)
 
-## Links
-- **Website:** [trusten.eu](https://trusten.eu)
-- **Instagram:** [@trustenia](https://instagram.com)
+1. **Patch-Paket laden:** Lade **`trustenia-patches-v2.3.0.mpp`** via [Releases (Latest)](https://github.com).
+2. **Original-APKs (`arm64-v8a` / `nodpi`):**  
+   * **YouTube:** `v21.30.216` | **YouTube Music:** `v9.30.53`
+3. **Patchen & Installieren:** APK mit Manager und `.mpp`-Datei patchen. *(Hinweis: GmsCore / microG wird für den Login benötigt).*
+
+### Highlights
+* **Universal SABR Buffer Fix (`SabrReadaheadLimit.java`):** Behebt Puffer-Probleme und Stream-Abbrüche durch erweiterte Limits.
+* **Custom Glass UI & Branding:** Angepasste Benutzeroberfläche und adaptive Icons.
+
+---
+
+## 🇬🇧 Quick Start Guide (English)
+
+1. **Download Patch Bundle:** Get **`trustenia-patches-v2.3.0.mpp`** via [Releases (Latest)](https://github.com).
+2. **Original APKs (`arm64-v8a` / `nodpi`):**  
+   * **YouTube:** `v21.30.216` | **YouTube Music:** `v9.30.53`
+3. **Patch & Install:** Patch the APK using the manager and `.mpp` file. *(Note: GmsCore / microG is required for login).*
+
+### Key Modifications
+* **Universal SABR Buffer Fix (`SabrReadaheadLimit.java`):** Prevents buffering and stream stalls by increasing readahead limits.
+* **Custom Glass UI & Branding:** Refined theme overlays and custom adaptive icons.
+
+---
+
+## 📜 Links
+* **License:** GNU GPL-3.0 | **Website:** [trusten.eu](https://trusten.eu) | **Instagram:** [@trustenia](https://instagram.com)
