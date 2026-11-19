@@ -1,22 +1,23 @@
 # 🔺 TRUSTENIA Δ Patches
 
 **Next-Gen Open-Source Android Patches für YouTube & YouTube Music**  
-Universal SABR Readahead Buffer Fix, Custom Glass UI und Adaptive Branding für Android (arm64-v8a).
+Universal SABR Readahead Buffer Fix, Custom Glass UI & Adaptive Branding (`arm64-v8a`).
 
-## Projektübersicht / Overview
-Open-Source-Erweiterung für YouTube und YouTube Music zur Behebung von Pufferproblemen (SABR-Buffer-Limits) mit anpassbarer Glass-UI.
+📥 **Release-Download:** `https://github.com`
 
-## Technische Architektur (Auszug)
-- **SabrReadaheadLimit.java**: Behebt Nachlade-Stopps durch Erweitern der Pufferlimits.
-- **MusicGlassNavigationBar.java**: Bietet eine transluzente UI mit Hintergrundunschärfe.
-- **custom-branding**: Adaptive App-Icons für TRUSTENIA Δ Tube und Music.
+## Übersicht & Highlights
+- **Universal SABR Buffer Fix:** Erhöht Buffer-Limits und Read-Ahead-Zeiten gegen Stream-Abbrüche.
+- **Custom Glass UI:** Transluzente Elemente und Hintergrundunschärfe.
+- **Branding:** Eigene adaptive Icons für TRUSTENIA Δ Tube und TRUSTENIA Δ MUSIC.
 
-## Schnellstart / Quick Start
-1. GmsCore / microG auf dem Android-Gerät installieren.
-2. `trustenia-patches-v2.3.0.mpp` und entsprechende APKs herunterladen.
-3. Patch-Paket importieren und anwenden.
-4. Optionaler Build aus dem Quellcode via Gradle.
+## Schnellstart
+1. **GmsCore / microG** installieren.
+2. **APKs laden:** `trustenia-patches-v2.3.0.mpp` plus passende YouTube- (`v21.30.216`) und YouTube-Music-APKs (`v9.30.53`).
+3. **Patchen & Installieren:** Bundle im Manager anwenden.
+4. **Self-Build (optional):** `./gradlew :patches:build`
 
-## Community & Lizenz
-- **Website:** `https://trusten.eu` | **E-Mail:** `info@trusten.eu`
-- **Lizenz:** GNU General Public License v3.0 (GPL-3.0)
+## Community & Kontakt
+- **Website:** `https://trusten.eu`
+- **Instagram:** `@trustenia` (`https://instagram.com`)
+- **Kontakt:** `info@trusten.eu`
+- **Lizenz:** GPL-3.0
