@@ -10,6 +10,8 @@
 [![Platform](https://shields.io)](https://github.com)
 [![Build](https://shields.io)](https://github.com/actions)
 
+📦 **[v2.3.0-trustenia](https://github.com)** · ⚖️ **[GPL-3.0](LICENSE)** · 🤖 **Android (arm64-v8a)**
+
 ### 📥 [1-Klick Direkt-Download: `trustenia-patches-v2.3.0.mpp`](https://github.com/download/trustenia-patches-v2.3.0.mpp)
 
 </div>
