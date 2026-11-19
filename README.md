@@ -13,3 +13,7 @@ This project is a derivative work licensed under the **GNU General Public Licens
 ## Links
 - **Website:** [trusten.eu](https://trusten.eu)
 - **Instagram:** [@trustenia](https://instagram.com)
+
+## Links
+- **Website:** [trusten.eu](https://trusten.eu)
+- **Instagram:** [@trustenia](https://instagram.com)
