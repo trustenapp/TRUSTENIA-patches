@@ -1,35 +1,47 @@
-# TRUSTENIA Δ Patches
+<div align="center">
 
-**Kostenlose Open-Source-Patches für YouTube & YouTube Music (inkl. Universal SABR Buffer Fix, Glass UI & Custom Branding).**  
-*Free & Open-Source Android patches for YouTube & YouTube Music (featuring Universal SABR Buffer Fix, Glass UI & Custom Branding).*
+# 🔺 TRUSTENIA Δ Patches
 
----
+**Next-Gen Open-Source Android Patches für YouTube & YouTube Music**  
+*Universal SABR Readahead Buffer Fix · Custom Glass UI · Adaptive Branding*
 
-## 🇩🇪 Schnellstart-Anleitung (Deutsch)
+[![Release](https://shields.io)](https://github.com)
+[![License](https://shields.io)](LICENSE)
+[![Platform](https://shields.io)](https://github.com)
+[![Build](https://shields.io)](https://github.com/actions)
 
-1. **Patch-Paket laden:** Lade **`trustenia-patches-v2.3.0.mpp`** via [Releases (Latest)](https://github.com).
-2. **Original-APKs (`arm64-v8a` / `nodpi`):**  
-   * **YouTube:** `v21.30.216` | **YouTube Music:** `v9.30.53`
-3. **Patchen & Installieren:** APK mit Manager und `.mpp`-Datei patchen. *(Hinweis: GmsCore / microG wird für den Login benötigt).*
+### 📥 [1-Klick Direkt-Download: `trustenia-patches-v2.3.0.mpp`](https://github.com/download/trustenia-patches-v2.3.0.mpp)
 
-### Highlights
-* **Universal SABR Buffer Fix (`SabrReadaheadLimit.java`):** Behebt Puffer-Probleme und Stream-Abbrüche durch erweiterte Limits.
-* **Custom Glass UI & Branding:** Angepasste Benutzeroberfläche und adaptive Icons.
+</div>
 
 ---
 
-## 🇬🇧 Quick Start Guide (English)
+## 🚀 Technische Highlights / Technical Architecture
 
-1. **Download Patch Bundle:** Get **`trustenia-patches-v2.3.0.mpp`** via [Releases (Latest)](https://github.com).
-2. **Original APKs (`arm64-v8a` / `nodpi`):**  
-   * **YouTube:** `v21.30.216` | **YouTube Music:** `v9.30.53`
-3. **Patch & Install:** Patch the APK using the manager and `.mpp` file. *(Note: GmsCore / microG is required for login).*
-
-### Key Modifications
-* **Universal SABR Buffer Fix (`SabrReadaheadLimit.java`):** Prevents buffering and stream stalls by increasing readahead limits.
-* **Custom Glass UI & Branding:** Refined theme overlays and custom adaptive icons.
+| Modul / Datei | Funktion (DE) | Function (EN) |
+| :--- | :--- | :--- |
+| **`SabrReadaheadLimit.java`** | **Universal SABR Buffer Fix:** Verdoppelt `MAX_BUFFERED_BYTES` und erhöht `MIN_READAHEAD_MS` (60s) & `FORMAT_EXPIRATION_MS` (180s) gegen Ladestopps. | **Universal SABR Buffer Fix:** Doubles heap buffer cap & extends readahead/expiration windows to eliminate stream stalls. |
+| **`MusicGlassNavigationBar.java`** & **`GlassBackdrop.java`** | **Custom Glass UI:** Moderne Transparenz-, Unschärfe- und Theme-Overlays. | **Custom Glass UI:** Refined translucent navigation bar, backdrop blur & theme color overlays. |
+| **`ForceFullscreenLandscapePatch.java`** & **`MinimalMiniplayerPatch.java`** | **Player UX:** Optimierte Vollbild- und Miniplayer-Steuerung. | **Player UX:** Enhanced fullscreen orientation & minimal miniplayer controls. |
+| **`custom-branding`** | **TRUSTENIA Δ Branding:** Eigene adaptive Icons (`mdpi` bis `xxxhdpi`) für Tube & Music. | **TRUSTENIA Δ Branding:** Custom adaptive icons across all Android DPI buckets. |
 
 ---
 
-## 📜 Links
-* **License:** GNU GPL-3.0 | **Website:** [trusten.eu](https://trusten.eu) | **Instagram:** [@trustenia](https://instagram.com)
+## 🇩🇪 Schnellstart (Deutsch) & 🇬🇧 Quick Start (English)
+
+1. **Patch-Paket herunterladen / Download Bundle:**  
+   Klicke oben auf **[`trustenia-patches-v2.3.0.mpp`](https://github.com/download/trustenia-patches-v2.3.0.mpp)**.
+2. **Empfohlene Original-APKs (`arm64-v8a` / `nodpi`):**  
+   * **YouTube:** `v21.30.216`  
+   * **YouTube Music:** `v9.30.53`
+3. **Patchen & Installieren / Patch & Install:**  
+   Lade die `.mpp`-Datei in deinen kompatiblen Patch-Manager, wähle die Original-APK aus und installiere die fertige App *(GmsCore / microG wird für die Google-Anmeldung benötigt)*.
+
+---
+
+## 🌐 Community & Kontakt / Links
+
+* **Website:** [trusten.eu](https://trusten.eu)
+* **Instagram:** [@trustenia](https://instagram.com)
+* **Kontakt / Support:** `info@trusten.eu`
+* **Lizenz / License:** GNU General Public License v3.0 (siehe `LICENSE` & `NOTICE`)
