@@ -9,3 +9,7 @@ Custom Android patches for YouTube and YouTube Music, featuring the **Universal 
 
 ## License & Attribution
 This project is a derivative work licensed under the **GNU General Public License v3.0 (GPL-3.0)**, based on the open-source patch framework (see `LICENSE` and `NOTICE` for full attribution and terms).
+
+## Links
+- **Website:** [trusten.eu](https://trusten.eu)
+- **Instagram:** [@trustenia](https://instagram.com)
