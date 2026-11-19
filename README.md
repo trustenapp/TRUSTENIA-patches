@@ -12,6 +12,8 @@
 
 📦 **[v2.3.0-trustenia](https://github.com)** · ⚖️ **[GPL-3.0](LICENSE)** · 🤖 **Android (arm64-v8a)**
 
+![Release](https://shields.io/Release-v2.3.0-gold?style=for-the-badge) ![License](https://shields.io/License-GPL--3.0-blue?style=for-the-badge) ![Android](https://shields.io/Android-arm64--v8a-3DDC84?style=for-the-badge)
+
 ### 📥 [1-Klick Direkt-Download: `trustenia-patches-v2.3.0.mpp`](https://github.com/download/trustenia-patches-v2.3.0.mpp)
 
 </div>
