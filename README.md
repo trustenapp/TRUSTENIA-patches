@@ -61,7 +61,7 @@
 ## 🔧 Selbst kompilieren / Build from Source
 
 ```bash
-git clone https://github.com/MorpheApp/morphe-patches.git
+git clone https://github.com/trustenapp/TRUSTENIA-patches.git
 cd TRUSTENIA-patches
 ./gradlew :patches:build
 ```
