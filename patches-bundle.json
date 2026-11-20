@@ -1,4 +1,6 @@
 {
+  "name": "TRUSTENIA Δ Patches",
+  "source": "https://github.com/trustenapp/TRUSTENIA-patches",
   "version": "v2.3.0-trustenia",
   "download_url": "https://github.com/trustenapp/TRUSTENIA-patches/releases/latest/download/trustenia-patches-v2.3.0.mpp"
 }
