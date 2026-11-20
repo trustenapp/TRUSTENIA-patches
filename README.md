@@ -80,7 +80,4 @@ cd TRUSTENIA-patches
 
 ## 🌐 Community, Links & Kontakt
 
-* **Website:** [trusten.eu](https://trusten.eu)
-* **Instagram:** [@trustenia](https://instagram.com)
-* **Kontakt / E-Mail:** `info@trusten.eu`
 * **Fehler melden / Bug Reports:** [GitHub Issues](https://github.com/trustenapp/TRUSTENIA-patches/issues)
