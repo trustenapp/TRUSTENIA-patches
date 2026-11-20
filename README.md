@@ -11,9 +11,9 @@
 
 ## 📸 Vorschau & Screenshots / Preview
 
-| Lockscreen Player | Homescreen & Branding | Dual App UI |
+| Music UI | YouTube UI | Dual App |
 | :---: | :---: | :---: |
-| <img src="docs/screenshots/lockscreen.png" width="230" alt="Lockscreen Player"> | <img src="docs/screenshots/homescreen.png" width="230" alt="Homescreen Branding"> | <img src="docs/screenshots/glass_ui.png" width="230" alt="Glass UI"> |
+| <img src="docs/screenshots/music_ui.png" width="220" alt="Music UI"> | <img src="docs/screenshots/youtube_ui.png" width="220" alt="YouTube UI"> | <img src="docs/screenshots/dual_app.png" width="220" alt="Dual App"> |
 
 ## 📥 1-Klick Direkt-Downloads
 
