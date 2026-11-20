@@ -9,14 +9,14 @@
 
 ## 📥 1-Klick Direkt-Downloads
 
-* **Patch-Bundle (`.mpp`):** [`trustenia-patches-v2.3.0.mpp`](https://github.com)
-* **Gesamter Quellcode (`.zip`):** [`TRUSTENIA-patches-main.zip`](https://github.com)
+* **Patch-Bundle (`.mpp`):** [`trustenia-patches-v2.3.0.mpp`](https://github.comtrustenapp/TRUSTENIA-patches/releases/latest)
+* **Gesamter Quellcode (`.zip`):** [`TRUSTENIA-patches-main.zip`](https://github.comtrustenapp/TRUSTENIA-patches/releases/latest)
 
 ---
 
 ## 🛠️ Vorbereitung & Voraussetzungen / Prerequisites
 
-1. **GmsCore / microG installieren:** [ReVanced GmsCore herunterladen](https://github.com) *(Pflicht für Google-Login & Wiedergabe)*.
+1. **GmsCore / microG installieren:** [ReVanced GmsCore herunterladen](https://github.comtrustenapp/TRUSTENIA-patches/releases/latest) *(Pflicht für Google-Login & Wiedergabe)*.
 2. **Empfohlene Original-APKs (`arm64-v8a` / `nodpi`):**
    * **YouTube:** `v21.30.216`
    * **YouTube Music:** `v9.30.53`
@@ -48,12 +48,12 @@
 
 | Datei / Modul | Beschreibung | Ansicht & Download |
 | :--- | :--- | :--- |
-| **`SabrReadaheadLimit.java`** | Universal SABR Readahead Buffer Fix (gegen Ladestopps) | [Code öffnen](https://github.com) |
-| **`MusicGlassNavigationBar.java`** | Custom Glass UI & Transparenz-Effekte | [Code öffnen](https://github.com) |
-| **`GlassBackdrop.java`** | Hintergrundunschärfe & Glass-Overlays | [Code öffnen](https://github.com) |
-| **`ForceFullscreenLandscapePatch.java`** | Optimierte Vollbild-Steuerung | [Code öffnen](https://github.com) |
-| **`MinimalMiniplayerPatch.java`** | Minimalistischer Miniplayer | [Code öffnen](https://github.com) |
-| **`extensions/` & `patches/`** | Kompletter Quellcode aller Extensions & Patches | [Ordner öffnen](https://github.com) |
+| **`SabrReadaheadLimit.java`** | Universal SABR Readahead Buffer Fix (gegen Ladestopps) | [Code öffnen](https://github.comtrustenapp/TRUSTENIA-patches/releases/latest) |
+| **`MusicGlassNavigationBar.java`** | Custom Glass UI & Transparenz-Effekte | [Code öffnen](https://github.comtrustenapp/TRUSTENIA-patches/releases/latest) |
+| **`GlassBackdrop.java`** | Hintergrundunschärfe & Glass-Overlays | [Code öffnen](https://github.comtrustenapp/TRUSTENIA-patches/releases/latest) |
+| **`ForceFullscreenLandscapePatch.java`** | Optimierte Vollbild-Steuerung | [Code öffnen](https://github.comtrustenapp/TRUSTENIA-patches/releases/latest) |
+| **`MinimalMiniplayerPatch.java`** | Minimalistischer Miniplayer | [Code öffnen](https://github.comtrustenapp/TRUSTENIA-patches/releases/latest) |
+| **`extensions/` & `patches/`** | Kompletter Quellcode aller Extensions & Patches | [Ordner öffnen](https://github.comtrustenapp/TRUSTENIA-patches/releases/latest) |
 | **`LICENSE` & `NOTICE`** | Vollständige GPL-3.0-Lizenz & Urheberhinweise | [LICENSE](LICENSE) · [NOTICE](NOTICE) |
 
 ---
@@ -61,7 +61,7 @@
 ## 🔧 Selbst kompilieren / Build from Source
 
 ```bash
-git clone https://github.com
+git clone https://github.comtrustenapp/TRUSTENIA-patches.git
 cd TRUSTENIA-patches
 ./gradlew :patches:build
 ```
@@ -73,4 +73,4 @@ cd TRUSTENIA-patches
 * **Website:** [trusten.eu](https://trusten.eu)
 * **Instagram:** [@trustenia](https://instagram.com)
 * **Kontakt / E-Mail:** `info@trusten.eu`
-* **Fehler melden / Bug Reports:** [GitHub Issues](https://github.com)
+* **Fehler melden / Bug Reports:** [GitHub Issues](https://github.comtrustenapp/TRUSTENIA-patches/releases/latest)
