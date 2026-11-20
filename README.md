@@ -16,7 +16,7 @@
 
 ---
 
-- **Auto-Update Source (JSON):** `[https://raw.githubusercontent.com/trustenapp/TRUSTENIA-patches/main/patches-bundle.json](https://raw.githubusercontent.com/trustenapp/TRUSTENIA-patches/main/patches-bundle.json)
+- **Auto-Update Source (JSON):** [`patches-bundle.json`](https://raw.githubusercontent.com/trustenapp/TRUSTENIA-patches/main/patches-bundle.json)
 
 ## 🛠️ Vorbereitung & Voraussetzungen / Prerequisites
 
@@ -65,7 +65,7 @@
 ## 🔧 Selbst kompilieren / Build from Source
 
 ```bash
-git clone https://github.com.git/trustenapp/TRUSTENIA-patches.git
+git clone https://github.com/trustenapp/TRUSTENIA-patches.git
 cd TRUSTENIA-patches
 ./gradlew :patches:build
 ```
