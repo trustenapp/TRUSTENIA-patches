@@ -11,7 +11,7 @@
 
 ## 📸 Vorschau & Screenshots / Preview
 
-| Lockscreen Player | Homescreen & Branding | Music UI |
+| Lockscreen Player | Homescreen & Branding | Dual App UI |
 | :---: | :---: | :---: |
 | <img src="docs/screenshots/lockscreen.png" width="230" alt="Lockscreen Player"> | <img src="docs/screenshots/homescreen.png" width="230" alt="Homescreen Branding"> | <img src="docs/screenshots/glass_ui.png" width="230" alt="Glass UI"> |
 
