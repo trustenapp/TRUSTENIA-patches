@@ -16,7 +16,7 @@
 
 ## 🛠️ Vorbereitung & Voraussetzungen / Prerequisites
 
-1. **GmsCore / microG installieren:** [ReVanced GmsCore herunterladen](https://://github.com/TRUSTENIA-patches/releases/latest) *(Pflicht für Google-Login & Wiedergabe)*.
+1. **GmsCore / microG installieren:** [ReVanced GmsCore herunterladen](https://github.com/ReVanced/GmsCore/releases/latest) *(Pflicht für Google-Login & Wiedergabe)*.
 2. **Empfohlene Original-APKs (`arm64-v8a` / `nodpi`):**
    * **YouTube:** `v21.30.216`
    * **YouTube Music:** `v9.30.53`
@@ -61,7 +61,7 @@
 ## 🔧 Selbst kompilieren / Build from Source
 
 ```bash
-git clone https://://github.com/TRUSTENIA-patches.git
+git clone https://github.com/MorpheApp/morphe-patches.git
 cd TRUSTENIA-patches
 ./gradlew :patches:build
 ```
