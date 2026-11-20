@@ -1,5 +1,7 @@
 # 🔺 TRUSTENIA Δ Patches
 
+![Version](https://shields.io) ![License](https://shields.io) ![Platform](https://shields.io) ![Downloads](https://shields.io)
+
 **Kostenlose Open-Source-Patches für YouTube & YouTube Music (Universal SABR Buffer Fix, Custom Glass UI & Adaptive Branding)**  
 *Free & Open-Source Android Patches for YouTube & YouTube Music (`arm64-v8a` / `nodpi`)*
 
@@ -13,6 +15,8 @@
 - **Gesamter Quellcode (`.zip`):** [`TRUSTENIA-patches-main.zip`](https://github.com/trustenapp/TRUSTENIA-patches/archive/refs/heads/main.zip)
 
 ---
+
+- **Auto-Update Source (JSON):** `https://githubusercontent.com`
 
 ## 🛠️ Vorbereitung & Voraussetzungen / Prerequisites
 
@@ -61,7 +65,7 @@
 ## 🔧 Selbst kompilieren / Build from Source
 
 ```bash
-git clone https://github.com/trustenapp/TRUSTENIA-patches.git
+git clone https://github.com.git/trustenapp/TRUSTENIA-patches.git
 cd TRUSTENIA-patches
 ./gradlew :patches:build
 ```
