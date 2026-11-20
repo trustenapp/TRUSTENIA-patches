@@ -9,8 +9,8 @@
 
 ## 📥 1-Klick Direkt-Downloads
 
-* **Patch-Bundle (`.mpp`):** [`trustenia-patches-v2.3.0.mpp`](https://://github.com/TRUSTENIA-patches/releases/latest)
-* **Gesamter Quellcode (`.zip`):** [`TRUSTENIA-patches-main.zip`](https://://github.com/TRUSTENIA-patches/releases/latest)
+- **Patch-Bundle (`.mpp`):** [`trustenia-patches-v2.3.0.mpp`](https://github.com)
+- **Gesamter Quellcode (`.zip`):** [`TRUSTENIA-patches-main.zip`](https://github.com)
 
 ---
 
