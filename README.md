@@ -11,9 +11,9 @@
 
 ## 📸 Vorschau & Screenshots / Preview
 
-| Music UI | YouTube UI | Dual App |
+| Homescreen | YouTube | Music |
 | :---: | :---: | :---: |
-| <img src="docs/screenshots/music_ui.png" width="220" alt="Music UI"> | <img src="docs/screenshots/youtube_ui.png" width="220" alt="YouTube UI"> | <img src="docs/screenshots/dual_app.png" width="220" alt="Dual App"> |
+| <img src="docs/screenshots/homescreen.png" width="220" alt="Homescreen"> | <img src="docs/screenshots/youtube.png" width="220" alt="YouTube"> | <img src="docs/screenshots/music.png" width="220" alt="Music"> |
 
 ## 📥 1-Klick Direkt-Downloads
 
