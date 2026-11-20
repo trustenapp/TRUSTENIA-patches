@@ -16,7 +16,7 @@
 
 ---
 
-- **Auto-Update Source (JSON):** `https://githubusercontent.com/trustenapp/TRUSTENIA-patches/main/patches-bundle.json`
+- **Auto-Update Source (JSON):** `https://raw.githubusercontent.com/trustenapp/TRUSTENIA-patches/main/patches-bundle.json/trustenapp/TRUSTENIA-patches/main/patches-bundle.json/trustenapp/TRUSTENIA-patches/main/patches-bundle.json`
 
 ## 🛠️ Vorbereitung & Voraussetzungen / Prerequisites
 
