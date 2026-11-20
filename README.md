@@ -9,6 +9,12 @@
 
 ---
 
+## 📸 Vorschau & Screenshots / Preview
+
+| Lockscreen Player | Homescreen & Branding | Glass UI & Player |
+| :---: | :---: | :---: |
+| <img src="docs/screenshots/lockscreen.png" width="230" alt="Lockscreen Player"> | <img src="docs/screenshots/homescreen.png" width="230" alt="Homescreen Branding"> | <img src="docs/screenshots/glass_ui.png" width="230" alt="Glass UI"> |
+
 ## 📥 1-Klick Direkt-Downloads
 
 - **Patch-Bundle (`.mpp`):** [`trustenia-patches-v2.3.0.mpp`](https://github.com/trustenapp/TRUSTENIA-patches/releases/latest/download/trustenia-patches-v2.3.0.mpp)
