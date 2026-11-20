@@ -48,12 +48,12 @@
 
 | Datei / Modul | Beschreibung | Ansicht & Download |
 | :--- | :--- | :--- |
-| **`SabrReadaheadLimit.java`** | Universal SABR Readahead Buffer Fix (gegen Ladestopps) | [Code öffnen](https://://github.com/TRUSTENIA-patches/releases/latest) |
-| **`MusicGlassNavigationBar.java`** | Custom Glass UI & Transparenz-Effekte | [Code öffnen](https://://github.com/TRUSTENIA-patches/releases/latest) |
-| **`GlassBackdrop.java`** | Hintergrundunschärfe & Glass-Overlays | [Code öffnen](https://://github.com/TRUSTENIA-patches/releases/latest) |
-| **`ForceFullscreenLandscapePatch.java`** | Optimierte Vollbild-Steuerung | [Code öffnen](https://://github.com/TRUSTENIA-patches/releases/latest) |
-| **`MinimalMiniplayerPatch.java`** | Minimalistischer Miniplayer | [Code öffnen](https://://github.com/TRUSTENIA-patches/releases/latest) |
-| **`extensions/` & `patches/`** | Kompletter Quellcode aller Extensions & Patches | [Ordner öffnen](https://://github.com/TRUSTENIA-patches/releases/latest) |
+| **`SabrReadaheadLimit.java`** | Universal SABR Readahead Buffer Fix (gegen Ladestopps) | [Code öffnen](../../tree/main/patches/src) |
+| **`MusicGlassNavigationBar.java`** | Custom Glass UI & Transparenz-Effekte | [Code öffnen](../../tree/main/patches/src) |
+| **`GlassBackdrop.java`** | Hintergrundunschärfe & Glass-Overlays | [Code öffnen](../../tree/main/patches/src) |
+| **`ForceFullscreenLandscapePatch.java`** | Optimierte Vollbild-Steuerung | [Code öffnen](../../tree/main/patches/src) |
+| **`MinimalMiniplayerPatch.java`** | Minimalistischer Miniplayer | [Code öffnen](../../tree/main/patches/src) |
+| **`extensions/` & `patches/`** | Kompletter Quellcode aller Extensions & Patches | [Ordner öffnen](../../tree/main/patches/src) |
 | **`LICENSE` & `NOTICE`** | Vollständige GPL-3.0-Lizenz & Urheberhinweise | [LICENSE](LICENSE) · [NOTICE](NOTICE) |
 
 ---
@@ -73,4 +73,4 @@ cd TRUSTENIA-patches
 * **Website:** [trusten.eu](https://trusten.eu)
 * **Instagram:** [@trustenia](https://instagram.com)
 * **Kontakt / E-Mail:** `info@trusten.eu`
-* **Fehler melden / Bug Reports:** [GitHub Issues](https://://github.com/TRUSTENIA-patches/releases/latest)
+* **Fehler melden / Bug Reports:** [GitHub Issues](../../issues)
